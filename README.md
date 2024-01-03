@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pranx2
 - 👀 I’m interested in Software
-- 🌱 I’m currently learning Computer language
+- 🌱 I’m currently learning Computer language {c}
 - 💞️ I’m looking to collaborate with a coder
 - 📫 How to reach me pranto.ks@uttarauniversity.edu.bd
 
