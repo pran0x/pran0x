@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm PRAN</h1>
 <h3 align="center">A passionate Coder</h3>
-<img align="right"alt="coding"width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvsgif.com%2Fgif%2F3249927&psig=AOvVaw1jxYlKkDluroeWKVzdV3sC&ust=1704393424047000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLj2tdDuwYMDFQAAAAAdAAAAABBe">
+<img align="right"alt="coding"width="400"src="https://vsgif.com/gif/3249927">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranx2&label=Profile%20views&color=009dff&style=plastic" alt="pranx2" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
