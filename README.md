@@ -3,7 +3,6 @@
 <img align="left" alt="coding" width="500" src="https://eportfolio.utm.my/artefact/file/download.php?file=682041&view=171850&embedded=1&text=691127">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranx2&label=Profile%20views&color=009dff&style=plastic" alt="pranx2" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🎓 I’m studying on **Computer Science and Engineering**
 
@@ -14,6 +13,7 @@
 - 🤝 I’m looking for help with **C problems solving's**
 
 - 💬 Ask me about **C**
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me **prantokumar.net@gmail.com**
 
@@ -31,4 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranx2&show_icons=true&theme=tokyonight&locale=en" alt="pranx2" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranx2&theme=dark" alt="pranx2" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=pranx2&theme=dark" alt="pranx2" /></p>
