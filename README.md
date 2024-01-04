@@ -18,7 +18,8 @@
  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a> </p> 
   
-<p><a> <img align="left" width="400" height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranx2&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="pranx2"/> </a> <a> &nbsp;<img align="left" width="400" height="195" src="https://github-readme-stats.vercel.app/api?username=pranx2&show_icons=true&theme=tokyonight&locale=en" alt="pranx2"/><a> &nbsp; &nbsp; &nbsp; &nbsp; <img align=center" width="495" height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=pranx2&theme=dark" alt="pranx2"/></a></p>
+<p><a> <img align="left" width="400" height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranx2&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="pranx2"/> </a> <a> &nbsp;<img align="left" width="400" height="195" src="https://github-readme-stats.vercel.app/api?username=pranx2&show_icons=true&theme=tokyonight&locale=en" alt="pranx2"/> </a> </p>
+ <p align = "center"<a><img align=center" width="495" height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=pranx2&theme=dark" alt="pranx2"/></a></p>
 
 <h3 align="center">Connect with me</h3>
 <p align= "center">
