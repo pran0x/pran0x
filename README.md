@@ -26,4 +26,3 @@
 <a href="https://fb.com/im.pranx/" target="blank"><img align="center" src="https://pixlok.com/wp-content/uploads/2021/12/Facebook-Icon-9imsd.png" alt="im.pranx/" height="40" width="40" /></a>
 <a href="https://instagram.com/im.pranx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im.pranx/" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prantoinfo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prantoinfo/" height="30" width="40" /></a></p>
-<p align = "center"> <a><img alt="coding" src="https://miro.medium.com/v2/resize:fit:996/1*FfBynQBLv37OqXazih_Yyw.gif" width="115"  ></a></p>
