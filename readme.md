@@ -23,14 +23,13 @@
 ## 📊 GitHub Stats:
 <p><a> <img align="left" width="400" height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranx2&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="pranx2"/> </a> <a> &nbsp;<img align="left" width="360" height="195" src="https://github-readme-stats.vercel.app/api?username=pranx2&show_icons=true&theme=tokyonight&locale=en" alt="pranx2"/> </a> </p>
  <p align = "center"<a><img width="495" height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=pranx2&theme=dark" alt="pranx2"/></a></p>
- 
+
 [![Pranto's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=pranx2&theme=dark)](https://github.com/pranx2/leetcode-stats)
 
+![](profile-3d-contrib/profile-night-rainbow.svg)
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka--> 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pranx2&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=pranx2&limit=5&theme=radical&combine_all_yearly_contributions=true)
