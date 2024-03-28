@@ -25,7 +25,10 @@
  <p align = "center"<a><img width="495" height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=pranx2&theme=dark" alt="pranx2"/></a></p>
  
 [![Pranto's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=pranx2&theme=dark)](https://github.com/pranx2/leetcode-stats)
- 
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka--> 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pranx2&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
