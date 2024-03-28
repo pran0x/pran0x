@@ -30,7 +30,7 @@
 
 <!--END_SECTION:waka--> 
 <!--START_SECTION:-->
-[![pranto's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pranx2theme=react-dark&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/pranx2/github-readme-activity-graph)
+[![](https://github-readme-activity-graph.vercel.app/graph?username=pranx2&theme=react-dark)](https://github.com/pranx2/github-readme-activity-graph)
 <!--END_SECTION:--> 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=pranx2&limit=5&theme=radical&combine_all_yearly_contributions=true)
