@@ -24,9 +24,8 @@
 <p><a> <img align="left" width="400" height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranx2&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="pranx2"/> </a> <a> &nbsp;<img align="left" width="360" height="195" src="https://github-readme-stats.vercel.app/api?username=pranx2&show_icons=true&theme=tokyonight&locale=en" alt="pranx2"/> </a> </p>
  <p align = "center"<a><img width="495" height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=pranx2&theme=dark" alt="pranx2"/></a></p>
 
-[![Pranto's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=pranx2&theme=dark)](https://github.com/pranx2/leetcode-stats)
 
-![](profile-3d-contrib/profile-night-rainbow.svg)
+[![Pranto's status](./profile-3d-contrib/profile-green-animate.svg)]
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka--> 
