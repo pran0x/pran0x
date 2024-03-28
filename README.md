@@ -1,28 +1,22 @@
-<h1 align="center"> Hi, I'm PRAN!</h1>
-<h3 align="center">A passionate Coder</h3>
-<img align="left" alt="coding" width="400" src="https://eportfolio.utm.my/artefact/file/download.php?file=682041&view=171850&embedded=1&text=691127">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranx2&label=Profile%20views&color=009dff&style=plastic" alt="pranx2" /> </p>
+# 💫 About Me:<p align="right"> <img  align="left" src="https://komarev.com/ghpvc/?username=pranx2&label=Profile%20views&color=009dff&style=plastic" alt="pranx2" /> </p>
 
-- 🎓 I’m studying on **Computer Science and Engineering**
+🎓 I’m studying Computer Science and Engineering<br><br>🎯 I’m currently working on Competitive Programming <br><br>🔭 I’m looking to collaborate on  projects<br><br>📫 How to reach me prantokumar.net@gmail.com
 
-- 🌱 I’m currently learning **C**
 
-- 👯 I’m looking to collaborate on **C projects**
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/im.pranx) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/im.pranx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prantoinfo) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/impranx) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/PRITOM_XD06) 
 
-- 🤝 I’m looking for help with **C problems solving's**
-- 💬 Ask me about **C**
-
-📫 How to reach me **prantokumar.net@gmail.com**
-
-<p> <h3 align="left">Languages & Tools </h3> </p>
- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a></p> 
-  
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white)
+# 📊 GitHub Stats:
 <p><a> <img align="left" width="400" height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranx2&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="pranx2"/> </a> <a> &nbsp;<img align="left" width="360" height="195" src="https://github-readme-stats.vercel.app/api?username=pranx2&show_icons=true&theme=tokyonight&locale=en" alt="pranx2"/> </a> </p>
  <p align = "center"<a><img width="495" height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=pranx2&theme=dark" alt="pranx2"/></a></p>
+ 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=pranx2&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
-<h3 align="center">Connect with me</h3>
-<p align= "center">
-<a href="https://fb.com/im.pranx/" target="blank"><img align="center" src="https://pixlok.com/wp-content/uploads/2021/12/Facebook-Icon-9imsd.png" alt="im.pranx/" height="40" width="40" /></a>
-<a href="https://instagram.com/im.pranx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im.pranx/" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prantoinfo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prantoinfo/" height="30" width="40" /></a></p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=pranx2&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+
