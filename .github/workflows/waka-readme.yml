@@ -12,6 +12,6 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master # this action name
+      - uses: Pranx/waka-readme@master # this action name
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_API_KEY: ${{ waka_86e0ede3-1ce7-4c9b-a673-ca8a2e2f1796}}
