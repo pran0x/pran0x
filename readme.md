@@ -29,8 +29,5 @@
 <!--START_SECTION:-->
 [![](https://github-readme-activity-graph.vercel.app/graph?username=pranx2&theme=react-dark)](https://github.com/pranx2/github-readme-activity-graph)
 <!--END_SECTION:--> 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pranx2&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
 ---
 
