@@ -28,6 +28,8 @@
 <!--END_SECTION:waka--> 
 <!--START_SECTION:-->
 [![](https://github-readme-activity-graph.vercel.app/graph?username=pranx2&theme=react-dark)](https://github.com/pranx2/github-readme-activity-graph)
+## Total Code Time:
+[![wakatime](https://wakatime.com/badge/user/018e865e-0d34-4186-baf6-ec92b60f5a20.svg)](https://wakatime.com/@018e865e-0d34-4186-baf6-ec92b60f5a20)
 <!--END_SECTION:--> 
 ---
 
