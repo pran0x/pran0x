@@ -17,7 +17,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
-<p><a> <img align="left" width="" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranx2&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="pranx2"/> <a align = "right"<a><img width="" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=pranx2&theme=dark" alt="pranx2"/></a></p>
+<p><a> <img align="left" width="" height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranx2&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="pranx2"/> <a align = "right"<a><img width="" height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=pranx2&theme=dark" alt="pranx2"/></a></p>
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka--> 
