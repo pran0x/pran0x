@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prantoinfo/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/Pritom1488652)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/pranx2)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/prantokumar.net@gmail.com)
+
 ## 💻 Tech Stack:
 ![C Language](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -17,8 +17,7 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranx2)
 ## 🎛️ Operating System:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+
 ##
 ## 📊 GitHub Stats:
 <p><a> <img align="left" width="400" height="195" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranx2&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="pranx2"/> </a> <a> &nbsp;<img align="left" width="360" height="195" src="https://github-readme-stats.vercel.app/api?username=pranx2&show_icons=true&theme=tokyonight&locale=en" alt="pranx2"/> </a> </p>
