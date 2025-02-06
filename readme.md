@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=WELCOME+TO+PRANTO'S+GITHUB+PROFILE!)](https://git.io/typing-svg)<img  align="right" src="https://count.getloli.com/get/@pranx2" alt="pranx2" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=pran0x+aka+revolver0x90!)](https://git.io/typing-svg)<img  align="right" src="https://count.getloli.com/get/@pranx2" alt="pranx2" />
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/im.pranX)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/im.pranx/)
