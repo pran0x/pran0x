@@ -30,7 +30,7 @@
 ![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)
 
 
-<p><a> <img align="left" width="" height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=pran0x&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="pran0x90"/> <a align = "right"<a><img width="" height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=pranx2&theme=dark" alt="pran0x90"/></a></p>
+<p><a> <img align="left" width="" height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=pran0x&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="pran0x90"/> <a align = "right"<a><img width="" height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=pran0x&theme=dark" alt="pran0x90"/></a></p>
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka--> 
