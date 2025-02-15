@@ -31,8 +31,7 @@
 
 
 <p><a> <img align="left" width="" height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=pran0x&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="pran0x90"/> <a align = "right"<a><img width="" height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=pran0x&theme=dark" alt="pran0x90"/></a></p>
-## [![Repography logo](https://images.repography.com/logo.svg)](https://repography.com) / Recent activity [![Time period](https://images.repography.com/61117396/pran0x/MY-CYBER-JOURNEY/recent-activity/Ek1k7BI4pt6zh92-51trvKu8R0fpkgg1exE_yT0Aig8/yzNJZcKEVWB8wIpz1akHzULneoKQkJ25guC8HF972YA_badge.svg)](https://repography.com)
-[![Trending topics](https://images.repography.com/61117396/pran0x/MY-CYBER-JOURNEY/recent-activity/Ek1k7BI4pt6zh92-51trvKu8R0fpkgg1exE_yT0Aig8/yzNJZcKEVWB8wIpz1akHzULneoKQkJ25guC8HF972YA_words.svg)](https://github.com/pran0x/MY-CYBER-JOURNEY/commits)
+[![](https://images.repography.com/61117396/pran0x/MY-CYBER-JOURNEY/recent-activity/Ek1k7BI4pt6zh92-51trvKu8R0fpkgg1exE_yT0Aig8/yzNJZcKEVWB8wIpz1akHzULneoKQkJ25guC8HF972YA_words.svg)](https://github.com/pran0x/MY-CYBER-JOURNEY/commits)
 
 
 <!--START_SECTION:waka-->
