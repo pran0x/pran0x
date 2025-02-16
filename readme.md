@@ -34,8 +34,7 @@
 <!--Tranding Commits-->                                         
 <!--Tranding Commits--> 
 <!--START_SECTION:-->
-[![](https://github-readme-activity-graph.vercel.app/graph?username=pran0x&theme=react-dark)](https://github.com/pran0x/github-readme-activity-graph)
-
+  
+[![](https://github-readme-activity-graph.vercel.app/graph?username=pran0x&theme=react-dark)](https://github.com/pran0x/github-readme-activity-graph)]
 <!--END_SECTION:--> 
----
 
