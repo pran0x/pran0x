@@ -1,8 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=pran0x+aka+revolver0x90!)](https://git.io/typing-svg)<img  align="right" src="https://count.getloli.com/get/@pranx2" alt="pranx2" />
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prantoinfo/)
-
-
 ![C Language](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -27,7 +24,7 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)
 
-
+<img src="https://tryhackme-badges.s3.amazonaws.com/pran0x.png" alt="Your Image Badge" />
 <p><a> <img align="left" width="" height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=pran0x&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="pran0x90"/> <a align = "right"<a><img width="" height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=pran0x&theme=dark" alt="pran0x90"/></a></p>
 <!--Tranding Commits-->                                         
 <!--Tranding Commits--> 
