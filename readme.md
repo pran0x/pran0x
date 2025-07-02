@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=pran0x+aka+revolver0x90!)](https://git.io/typing-svg)<img  align="right" src="https://count.getloli.com/get/@pranx2" alt="pranx2" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=pran0x+aka+R3v01v3R!)](https://git.io/typing-svg)<img  align="right" src="https://count.getloli.com/get/@pranx2" alt="pranx2" />
 
 ![C Language](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
