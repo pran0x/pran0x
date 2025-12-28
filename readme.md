@@ -1,13 +1,10 @@
 <!-- PASSION TAG -->
 <h1 align="center">
-
 <p style="font-size:50px;">pran0x</p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=7A7A7A&center=true&vCenter=true&width=600&lines=Offensive+Security+Researcher;Penetration+Tester;CTF Player" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=7A7A7A&center=true&vCenter=true&width=600&lines=Offensive+Security+Researcher;Penetration+Tester;CTF+Player" alt="Typing SVG" />
 
 </h1>
-<!-- PASSION TAG -->
-<br>
 <div align="center">
 <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300">
 
@@ -28,9 +25,6 @@
 
 <h1 align="center">Skils</h1>
 <div align="center">
-  <!-- Programming Languages -->
-
-## Language
 
 ![C Language](https://img.shields.io/badge/c-000000?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -43,10 +37,10 @@
 ![.Net](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-000000?style=for-the-badge&logo=php&logoColor=white)
 ![JSON](https://img.shields.io/badge/json-000000?style=for-the-badge&logo=json&logoColor=white)
-## Version Control
+
 [![Git](https://img.shields.io/badge/git-000000?style=for-the-badge&logo=git&logoColor=white)](https://github.com/pranx2)
 [![GitHub](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranx2)
-## Tools
+
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-000000?style=for-the-badge&logo=windowsterminal&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=powershell&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-000000?style=for-the-badge&logo=gnubash&logoColor=white)
@@ -57,27 +51,21 @@
 ![Netcat](https://img.shields.io/badge/Netcat-000000?style=for-the-badge&logo=windowsterminal&logoColor=white)
 ![John the Ripper](https://img.shields.io/badge/John_the_Ripper-000000?style=for-the-badge&logo=hackaday&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=white)
-## OS
+
 ![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows11&logoColor=white)
 ![linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Parrot OS](https://img.shields.io/badge/Parrot_OS-000000?style=for-the-badge&logo=debian&logoColor=white)
-## DEV
+
 ![Notepad++](https://img.shields.io/badge/Notepad++-000000?style=for-the-badge&logo=notepadplusplus&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-000000?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![CodeSandbox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white)
-  
-
-
-## Social Networks
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/pran0x)](https://www.linkedin.com/in/pran0x)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white&link=https://x.com/pran0x)](https://x.com/pran0x)
 [![Medium Badge](https://img.shields.io/badge/Medium-000000?style=for-the-badge&link=https://pran0x.medium.com/)](https://pran0x.medium.com/)
 
-
-## CTF Profiles
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/pran0x)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-000000?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/pran0x)
