@@ -8,9 +8,9 @@
 <div align="center">
 <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300">
 
-:house_with_garden: I’m from Bangladesh.
+I’m from 127.0.0.1
 
-:books: I'm currently learning all about Security and Red Teaming. 
+I'm currently learning all about Security and Red Teaming. 
 
 </div>
 
